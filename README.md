@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F078F&width=435&lines=Hello!+Welcome+to+Yiou's+GitHub" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&pause=1000&color=7100E3&width=435&lines=Hello!+Welcome+to+my+GitHub+page" alt="Typing SVG" /></a>
 </p>
 
 
@@ -39,6 +39,10 @@ Languages:
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YiouXia/YiouXia/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YiouXia/YiouXia/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YiouXia/YiouXia/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div><br>
