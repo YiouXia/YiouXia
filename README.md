@@ -2,8 +2,8 @@
  <h2> About me</hr>
 </div>
 
-<p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&pause=1000&color=7100E3&width=435&lines=Hello!+Welcome+to+my+GitHub+page" alt="Typing SVG" /></a>
+<p>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&pause=1000&color=7100E3&width=435&lines=Hello!+Welcome+to+my+GitHub+page" alt="Typing SVG" width="750"></a>
 </p>
 
 
