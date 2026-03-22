@@ -71,7 +71,7 @@
 <p><b>Tools & Technologies:</b></p>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPgesKNnemzQchrO-Hv-u-vpw88eOnVrq-g&s)" width="40" height="40" alt="GitHub"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
