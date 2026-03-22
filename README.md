@@ -27,7 +27,7 @@
   <p>📧 Email: yixi755@gmail.com</p>
   <p>📱 Phone: +34 643 978 748</p>
   <p>💼 LinkedIn: <a href="https://linkedin.com/in/yiou-xia-b18599302">yourprofile</a></p>
-  <p>🌐 Portfolio: <a href="https://yiouxia.com">yourportfolio.com</a></p>
+  <p>🌐 Portfolio: <a href="https://yiouxia.com">yiouxia.com</a></p>
 </div><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -45,35 +45,35 @@
 
 <p><b>Programming Languages:</b></p>
 <p>
-  <i class="devicon-java-plain colored"></i> Java &nbsp;
-  <i class="devicon-python-plain colored"></i> Python
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 </p>
 
 <p><b>Databases:</b></p>
 <p>
-  <i class="devicon-mysql-plain colored"></i> MySQL &nbsp;
-  <i class="devicon-mariadb-original colored"></i> MariaDB
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" width="40" height="40" alt="MariaDB"/>
 </p>
 
 <p><b>Frameworks & Environments:</b></p>
 <p>
-  <i class="devicon-dotnetcore-plain colored"></i> .NET &nbsp;
-  <i class="devicon-flutter-plain colored"></i> Flutter
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
 </p>
 
 <p><b>Frontend:</b></p>
 <p>
-  <i class="devicon-html5-plain colored"></i> HTML &nbsp;
-  <i class="devicon-css3-plain colored"></i> CSS &nbsp;
-  <i class="devicon-javascript-plain colored"></i> JavaScript
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 </p>
 
 <p><b>Tools & Technologies:</b></p>
 <p>
-  <i class="devicon-git-plain colored"></i> Git &nbsp;
-  <i class="devicon-github-original"></i> GitHub &nbsp;
-  <i class="devicon-linux-plain"></i> Linux &nbsp;
-  <i class="devicon-vscode-plain colored"></i> VS Code
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
