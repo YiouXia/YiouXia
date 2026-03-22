@@ -9,7 +9,7 @@
 	</a>
 </p>
 
-<p align="center">
+<p align="justify">
 Multiplatform Application Development student with technical experience in IT and system maintenance. 
 Specialized in Java, Python, and database management, with strong problem-solving skills and a continuous focus on learning new technologies such as AI.
 </p>
@@ -26,10 +26,15 @@ Specialized in Java, Python, and database management, with strong problem-solvin
 
 <div align="center">
 - Email:  
-- Phone:  
-- LinkedIn:  
-- Portfolio:  
-- GitHub:  
+	
+- Phone:
+   
+- LinkedIn:
+  
+- Portfolio:
+  
+- GitHub:
+  
 </div><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -50,12 +55,11 @@ Specialized in Java, Python, and database management, with strong problem-solvin
 <p><b>Databases:</b></p>
 
 - MySQL  
-- PostgreSQL  
-- MongoDB  
+- MariaDB
 
 <p><b>Frameworks & Environments:</b></p>
 
-- Spring Boot  
+- .NET
 - Flutter  
 
 <p><b>Frontend:</b></p>
@@ -66,8 +70,7 @@ Specialized in Java, Python, and database management, with strong problem-solvin
 
 - Git / GitHub  
 - Linux  
-- Docker  
-- IntelliJ / VS Code  
+- VS Code  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
