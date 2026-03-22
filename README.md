@@ -26,7 +26,7 @@
 <div>
   <p>📧 Email: yixi755@gmail.com</p>
   <p>📱 Phone: +34 643 978 748</p>
-  <p>💼 LinkedIn: <a href="https://linkedin.com/in/yiou-xia-b18599302">yourprofile</a></p>
+  <p>💼 LinkedIn: <a href="https://linkedin.com/in/yiou-xia-b18599302">Yiou Xia</a></p>
   <p>🌐 Portfolio: <a href="https://yiouxia.com">yiouxia.com</a></p>
 </div><br>
 
