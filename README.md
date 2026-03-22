@@ -14,7 +14,7 @@
   Specialized in Java, Python, and database management, with strong problem-solving skills and a continuous focus on learning new technologies such as AI.
 </p>
 
-<p align="center">
+<p>
   📍 Location: Spain
 </p>
 
