@@ -24,10 +24,10 @@
 <br><br><h2 align="center">Contact</h2><br>
 
 <div align="center">
-  <p>📧 Email: yourmail@example.com</p>
-  <p>📱 Phone: +34 XXX XXX XXX</p>
-  <p>💼 LinkedIn: <a href="https://linkedin.com/in/yourprofile">yourprofile</a></p>
-  <p>🌐 Portfolio: <a href="https://yourportfolio.com">yourportfolio.com</a></p>
+  <p>📧 Email: yixi755@gmail.com</p>
+  <p>📱 Phone: +34 643 978 748</p>
+  <p>💼 LinkedIn: <a href="https://linkedin.com/in/yiou-xia-b18599302">yourprofile</a></p>
+  <p>🌐 Portfolio: <a href="https://yiouxia.com">yourportfolio.com</a></p>
   <p>🐙 GitHub: <a href="https://github.com/YiouXia">YiouXia</a></p>
 </div><br>
 
