@@ -15,7 +15,7 @@ Specialized in Java, Python, and database management, with strong problem-solvin
 </p>
 
 <p align="center">
-📍 Spain
+📍 Location: Spain
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -24,7 +24,7 @@ Specialized in Java, Python, and database management, with strong problem-solvin
 <!-- Contacto -->
 <br><br><h2 align="center">Contact</h2><br>
 
-<div align="center">
+<div>
 - Email:  
 	
 - Phone:
