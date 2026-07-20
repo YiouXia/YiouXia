@@ -31,6 +31,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<!-- Currently Working On -->
+<br><br><h2 align="center">Currently Working On</h2><br>
+
+<div>
+  <p>Project: <a href="https://github.com/YiouXia/TeamForge"> TeamForge </a> </p>
+  <p>Using:</p>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </p>
+</div><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <!-- Devicon -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
